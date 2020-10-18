@@ -1,0 +1,3 @@
+[submodule "Front-End-Javascript"]
+	path = Front-End-Javascript
+	url = git@github.com:seven7e/substrate-front-end.git
